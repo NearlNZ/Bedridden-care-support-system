@@ -23,4 +23,4 @@ This project applied the use of this following module and use **Blynk(Legacy)** 
 ![curcuit](/Curcuit.png)
 
 # Blynk application layout example
-![layout](/blynk-layout.jpg)
+<p align="center"><img src="blynk-layout.jpg" width="350"/></p>
