@@ -21,3 +21,6 @@ This project applied the use of this following module and use **Blynk(Legacy)** 
 
 # Wire connection
 ![curcuit](/Curcuit.png)
+
+# Blynk application layout example
+![layout](/blynk-layout.jpg)
